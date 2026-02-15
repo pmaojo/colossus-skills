@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "updated": "2026-02-15T07:45:00Z",
+  "version": "1.1.0",
+  "updated": "2026-02-15T08:00:00Z",
   "skills": [
     {
       "id": "colossus-core",
@@ -21,6 +21,46 @@
       "repository": "https://github.com/pmaojo/colossus-skills/tree/main/visualization/graph-explorer",
       "tags": ["visualization", "graph", "analysis"],
       "verified": true
+    },
+    {
+      "id": "clean-code",
+      "name": "Clean Code",
+      "description": "Pragmatic coding standards - concise, direct, no over-engineering",
+      "author": "Colossus Team (Adapted)",
+      "version": "1.0.0",
+      "repository": "https://github.com/pmaojo/colossus-skills/tree/main/development/clean-code",
+      "tags": ["development", "best-practices"],
+      "verified": false
+    },
+    {
+      "id": "lint-and-validate",
+      "name": "Lint and Validate",
+      "description": "Validation tools for code quality (linting, type checking)",
+      "author": "Colossus Team (Adapted)",
+      "version": "1.0.0",
+      "repository": "https://github.com/pmaojo/colossus-skills/tree/main/development/lint-and-validate",
+      "tags": ["development", "quality", "validation"],
+      "verified": false
+    },
+    {
+      "id": "concise-planning",
+      "name": "Concise Planning",
+      "description": "Generates a clear, actionable, and atomic checklist for coding tasks",
+      "author": "Colossus Team (Adapted)",
+      "version": "1.0.0",
+      "repository": "https://github.com/pmaojo/colossus-skills/tree/main/productivity/concise-planning",
+      "tags": ["productivity", "planning"],
+      "verified": false
+    },
+    {
+      "id": "firecrawl-scraper",
+      "name": "Firecrawl Scraper",
+      "description": "Deep web scraping, screenshots, and PDF parsing using Firecrawl API",
+      "author": "BenedictKing (Adapted)",
+      "version": "1.0.0",
+      "repository": "https://github.com/pmaojo/colossus-skills/tree/main/web/firecrawl-scraper",
+      "tags": ["web", "scraping", "external"],
+      "verified": false
     }
   ]
 }
