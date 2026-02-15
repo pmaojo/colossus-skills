@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-02-15T07:45:00Z",
+  "skills": [
+    {
+      "id": "colossus-core",
+      "name": "Colossus Core",
+      "description": "Essential tools for Colossus (echo, sum, dream, synapse)",
+      "author": "Pelayo Maojo",
+      "version": "1.0.0",
+      "repository": "https://github.com/pmaojo/colossus-skills/tree/main/core/colossus-core",
+      "tags": ["core", "reasoning", "memory"],
+      "verified": true
+    },
+    {
+      "id": "graph-explorer",
+      "name": "Graph Explorer",
+      "description": "Interactive graph visualization and neuro-symbolic analysis",
+      "author": "Pelayo Maojo",
+      "version": "0.1.0",
+      "repository": "https://github.com/pmaojo/colossus-skills/tree/main/visualization/graph-explorer",
+      "tags": ["visualization", "graph", "analysis"],
+      "verified": true
+    }
+  ]
+}
